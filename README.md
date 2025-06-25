@@ -1,31 +1,50 @@
-🚀 Projeto Mostruário para Lojas Online
-Este projeto é um mostruário interativo desenvolvido para simular a vitrine de uma loja de vendas online. O objetivo principal é demonstrar a aplicação de boas práticas de desenvolvimento web, com ênfase na estruturação semântica utilizando HTML, CSS e JavaScript.
+# 🚀 Projeto Mostruário para Lojas Online
 
-✨ Visão Geral
-O mostruário permite a exibição de produtos de forma organizada e visualmente atraente, simulando a experiência de navegação de um cliente em um e-commerce. A inclusão de um carrossel de itens otimiza o espaço e melhora a experiência do usuário na visualização de múltiplos produtos, apresentando-os de forma fluida e dinâmica.
+Este repositório apresenta um mostruário interativo desenvolvido para simular a vitrine de uma loja virtual. O projeto tem como foco demonstrar boas práticas de desenvolvimento web, com ênfase na estruturação semântica utilizando **HTML5**, **CSS3** e **JavaScript**.
 
-💡 Principais Características
-Design Responsivo: Adaptável a diferentes tamanhos de tela (desktop, tablet, mobile).
+---
 
-Listagem de Produtos: Exibição de produtos com detalhes essenciais.
+## ✨ Visão Geral
 
-Navegação em Carrossel: Os itens são apresentados em um carrossel interativo, permitindo que os usuários explorem a vitrine de produtos de forma dinâmica.
+O mostruário exibe produtos de forma organizada e visualmente atrativa, simulando a navegação de um cliente em um e-commerce. Um carrossel interativo otimiza o espaço da vitrine, proporcionando uma navegação fluida entre os produtos e aprimorando a experiência do usuário.
 
-🎯 Foco na Semântica
-Um dos pilares deste projeto é a aplicação da semântica em todas as camadas:
+---
 
-HTML Semântico
-Utilizamos tags HTML5 como <header>, <nav>, <main>, <section>, <article>, <aside> e <footer> para estruturar o conteúdo de forma significativa. Isso garante que o código não seja apenas visualmente organizado, mas também compreensível para navegadores, mecanismos de busca e tecnologias assistivas (como leitores de tela), melhorando a acessibilidade e o SEO. A estrutura do carrossel, por exemplo, pode utilizar elementos como <figure> e <figcaption> para cada item, ou uma lista (<ul>) para os slides, reforçando seu significado.
+## 💡 Principais Funcionalidades
 
-CSS com Estrutura Lógica
-O CSS foi escrito pensando em modularidade e clareza. As classes e seletores buscam refletir a função e o contexto dos elementos, facilitando a manutenção e o entendimento do estilo. Estilos específicos para o carrossel garantem uma transição suave e uma apresentação impecável dos itens.
+- **🎨 Design Responsivo:** Totalmente adaptável para diferentes dispositivos (desktop, tablet e mobile).
+- **🛍️ Listagem de Produtos:** Produtos exibidos com imagem, nome e outras informações essenciais.
+- **🧭 Carrossel Interativo:** Navegação dinâmica entre os produtos com transições suaves.
 
-JavaScript Organizado
-O JavaScript é fundamental para o funcionamento do carrossel, adicionando a interatividade e dinamismo ao mostruário. O código é estruturado de forma modular e legível, seguindo padrões que promovem a escalabilidade e a manutenção.
+---
 
-🛠️ Tecnologias Utilizadas
-HTML5: Estrutura e conteúdo semântico.
+## 🎯 Foco na Semântica
 
-CSS3: Estilização e design responsivo.
+Este projeto prioriza a semântica desde a estruturação do conteúdo até a estilização e interatividade:
 
-JavaScript: Interatividade e lógica do mostruário e do carrossel.
+### 🧱 HTML Semântico
+
+Utilização de tags como `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>` e `<footer>` para uma estrutura clara e acessível.  
+Elementos como `<figure>` e `<figcaption>` (ou listas `<ul>`) são utilizados para representar os produtos dentro do carrossel, promovendo acessibilidade e SEO.
+
+### 🎨 CSS Estruturado
+
+CSS modular com nomes de classes claros e contextuais, favorecendo a manutenção e legibilidade do código.  
+Estilos específicos garantem uma exibição suave e responsiva dos itens do carrossel.
+
+### 🧠 JavaScript Organizado
+
+O JavaScript implementa a lógica e interatividade do carrossel de forma modular e escalável, seguindo boas práticas de legibilidade e separação de responsabilidades.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5:** Estrutura semântica do conteúdo.
+- **CSS3:** Estilização moderna com foco em responsividade.
+- **JavaScript:** Lógica de funcionamento do carrossel e interatividade geral.
+
+---
+
+## 📁 Estrutura do Projeto (Exemplo)
+
