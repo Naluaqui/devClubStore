@@ -41,10 +41,8 @@ timer = setInterval(() => {
 
 prevButton.addEventListener('click', () => {
     update(-1)
-    alert('funcionou')
 })
 
 nextButton.addEventListener('click', () => {
     update(+1)
-    alert('funcionou2')
 })
